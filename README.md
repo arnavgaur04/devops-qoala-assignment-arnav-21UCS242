@@ -35,6 +35,8 @@ link: http://34.131.89.250
      - Fixed `"mime.typess"` to `"mime.types"`.
    - **Default Type Typo**:
      - Changed `"default_typ"` to `"default_type"`.
+   - **Path Typo**:
+     - Changed `"python_app"` to `"python-app"`.
 
 ### 4. `Python/Dockerfile`
    - **Directory Name Correction**:
