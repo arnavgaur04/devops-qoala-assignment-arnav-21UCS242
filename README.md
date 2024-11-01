@@ -47,3 +47,7 @@ link: http://34.131.89.250
      - Changed `"eight thousand"` to `8000`.
    - **Command Correction**:
      - Updated the command from `"Python"` to `"python"`.
+    
+
+![Logs](./images/log.png)
+![Website](./images/website.png)
