@@ -15,6 +15,8 @@ link: http://34.131.89.250
      - Changed `"eight thousand"` to `8000`.
    - **Network Driver Correction**:
      - Changed `"bridg"` to `"bridge"`.
+   - **Changing command**:
+     - Updated the command from `"expose"` to `"ports"` so that the port can be accessed publically.
 
 ### 2. `nginx/Dockerfile`
    - **Version Tag Update**:
@@ -35,8 +37,6 @@ link: http://34.131.89.250
      - Fixed `"mime.typess"` to `"mime.types"`.
    - **Default Type Typo**:
      - Changed `"default_typ"` to `"default_type"`.
-   - **Path Typo**:
-     - Changed `"python_app"` to `"python-app"`.
 
 ### 4. `Python/Dockerfile`
    - **Directory Name Correction**:
