@@ -46,7 +46,7 @@ link: http://34.131.89.250
    - **Port Number Update**:
      - Changed `"eight thousand"` to `8000`.
    - **Command Correction**:
-     - Updated the command from `"Python"` to `"python"`.
+     - Updated the command from `"pythn"` to `"python"`.
     
 
 ![Logs](./images/log.png)
